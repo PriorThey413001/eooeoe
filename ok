@@ -12,7 +12,7 @@ function notify(L_461_arg0, L_462_arg1, L_463_arg2)
 	L_448_.Parent = game.CoreGui
 	L_448_.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 	getgenv().Settings = {
-		Nigger = false
+		Nigger = true
 	}
 	local L_450_ = getgenv().Settings
 	_G.KEY = "q"
